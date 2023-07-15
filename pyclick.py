@@ -3,9 +3,6 @@ import ctypes
 import os
 import pkgutil
 
-os.system("@echo off")
-print("Pyclick.py by Deepa & peen")
-
 dependencies = {
     0: 'keyboard',
     1: 'pyautogui',
