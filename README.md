@@ -1,0 +1,2 @@
+# pyclick
+Python macro program
